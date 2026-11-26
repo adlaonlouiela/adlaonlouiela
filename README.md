@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=adlaonlouiela&theme=neon&role=Basta%Developer&location=Cagayan%20de%20Oro%20City%2C%20Mis.%20Or.%2C%20Philippines&v=readme-reference-2" width="100%" alt="Louiela Adlaon profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=adlaonlouiela&theme=neon&role=CS%20Student&location=Cagayan%20de%20Oro%20City%2C%20Mis.%20Or.%2C%20Philippines&v=readme-reference-2" width="100%" alt="Louiela Adlaon profile banner" />
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Product-minded%20developer;1ST%20YEAR%20CS%20STUDENT%20%7C%2018%20YEARS%20OLD;Building%20with%20code;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Basta%20developer;1ST%20YEAR%20CS%20STUDENT%20%7C%2018%20YEARS%20OLD;Code2%20ra%20way%20trabaho;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
 <br/>
 
