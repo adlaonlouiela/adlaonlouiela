@@ -31,7 +31,7 @@ const adlaonlouiela: Developer = {
 };
 ```
 
-> 1ST YEAR CS STUDENT | 18 YEARS OLD 
+> 1ST YEAR CS STUDENT | 18 YEARS OLD | USTP CS Student 
 > 
 > **Collaborations welcome when they are meaningful 🤝**
 
@@ -89,10 +89,6 @@ nothing
 <div align="center">
 
 <img src="https://www.gitskins.com/api/section/stats?username=adlaonlouiela&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=adlaonlouiela&theme=neon&style=aura" width="100%" alt="Contribution activity" />
 
 </div>
 
