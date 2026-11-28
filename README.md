@@ -5,14 +5,8 @@
 <br/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Basta%20developer;1ST%20YEAR%20CS%20STUDENT%20%7C%2018%20YEARS%20OLD;Code2%20ra%20way%20trabaho;Kapoy%20pero%20%20Padayon%20%C2%B7%20Keep%20Moving,%20Forward%20%F0%9F%9A%80" alt="" /></a>
-
 <br/>
-
-<a href="https://github.com/adlaonlouiela"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
+<a href="https://github.com/adlaonlouiela"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117(https://github.com/adlaonlouiela)" alt="GitHub" /></a>
 
 </div>
 
@@ -23,17 +17,17 @@
 ```typescript
 const adlaonlouiela: Developer = {
   name:      "Louiela Adlaon",
-  role:      "Product-minded developer",
+  role:      "Developer",
   location:  "Cagayan de Oro City, Mis. Or., Philippines",
-  currently: "building in public",
-  stack:     ["JavaScript"],
-  mantra:    "Buenos dias mi amor by uncle dawwgssss",
+  currently: "studying",
+  stack:     ["Python"],
+  song:    "Buenos dias mi amor by uncle dawwgssss",
 };
 ```
 
 > 1ST YEAR CS STUDENT | 18 YEARS OLD | USTP CS Student 
 > 
-> **Collaborations welcome when they are meaningful 🤝**
+> **I write code by hand**
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=adlaonlouiela&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
@@ -41,14 +35,7 @@ const adlaonlouiela: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Creact%2Cnodejs%2Cpython%2Cgit%2Cgithub&perline=8&theme=dark" alt="Tech stack" />
-
-<br/><br/>
-
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
-
-<img src="https://img.shields.io/badge/Open_source-7DF9FF?style=for-the-badge&amp;labelColor=0d1117" alt="Open source" />
-
+<img src="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Cpython%2Cgitlab%2Cgithub&perline=8&theme=dark" alt="Tech stack" />
 </div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=adlaonlouiela&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
@@ -100,18 +87,14 @@ nothing
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=adlaonlouiela&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## 🏆 Beyond the Code
-
-* 🧠 **Profile signal:** 5 contributions in the last year
-* 🚀 **Builder energy:** 2 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
+## Philosopy
+* Use your code for good. Read the source code. There's so much to learn from the source code of great projects. It's like reading the brain of a genius. You see their thought process, their problem-solving approach, their coding style. It’s a kind of knowledge you won’t find in tutorials or documentation. So dive into the source code of your favorite projects and learn from the best.
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=adlaonlouiela&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
 
-## 🤝 Let's Build Something Meaningful
+## 🤝 Code with Purpose
 
 I build useful software and enjoy turning ambitious ideas into working products.
 
@@ -119,6 +102,6 @@ I build useful software and enjoy turning ambitious ideas into working products.
 
 <br/><br/>
 
-***⭐ From [Louiela Adlaon](https://github.com/adlaonlouiela) · built with code, AI & a little chaos 😈***
+***⭐ From [Louiela Adlaon](https://github.com/adlaonlouiela) · built with code***
 
 </div>
